@@ -54,7 +54,8 @@ section:before {
     display: flex;
     flex-direction: row;
     flex-wrap: wrap;
-    text-align: center
+    text-align: center;
+    align-items:stretch;
 }
 
 .tm-nav-item {
@@ -63,7 +64,7 @@ section:before {
 }
 
 .tm-nav-item-link {
-    font-size: 1.0em;
+    font-size: 1.4em;
     border: 1px solid transparent;
     color: rgb(124, 156, 129);
     display: block;
