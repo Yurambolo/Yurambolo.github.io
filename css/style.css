@@ -109,7 +109,9 @@ h2+p{
 .tm-sidebar, .tm-content-box{
     box-shadow:0 0 10px rgba(0,0,0,0.5);
 }
-
+section{
+    margin-left: 5%;
+}
 section::before {
     content: '';
     display: block;
@@ -134,7 +136,7 @@ section::before {
 .tm-section-description{
     margin-left: 30%;
     font-style: normal;
-    width: 120%;
+    width: auto;
     display: inline-block;
     vertical-align: middle;
 }
