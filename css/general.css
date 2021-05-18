@@ -27,7 +27,9 @@ section:before {
     position: absolute;
     z-index: 1
 }
-
+ section{
+     align-self: center;
+ }
 .box,
 .tm-content-box,
 .tm-main-nav {
