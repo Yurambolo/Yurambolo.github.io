@@ -63,7 +63,7 @@ section:before {
 }
 
 .tm-nav-item-link {
-    font-size: 1.5em;
+    font-size: 1.0em;
     border: 1px solid transparent;
     color: rgb(124, 156, 129);
     display: block;
