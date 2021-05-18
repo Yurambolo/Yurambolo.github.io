@@ -214,6 +214,9 @@ section::before {
 #second_title_offer {
     margin-top: 18%;
 }
+.offers_section{
+    width: 100%;
+}
 .price {
     font-weight: bold;
     font-size: 2.2em;
@@ -271,7 +274,7 @@ section::before {
     margin-left: -25%;
 }
 .help_p{
-    font-size: 3.0em;
+    font-size: 2.5em;
     font-weight: bolder;
     color: rgb(118, 163, 128);
 }
